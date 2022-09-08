@@ -1,6 +1,6 @@
 # vCard-maker  
 
-Automatically create vCards from a .xlsx file  
+Automatically create vCards from an .xlsx file  
 Instructions:  
 1. Create a "Contacts" folder in the same directory if it does not already exist
 2. Add contact details into the "contact_list.xlsx" spreadsheet  
